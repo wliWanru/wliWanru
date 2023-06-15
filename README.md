@@ -7,7 +7,7 @@ I'm Wanru!
 * I'm working on the neural mechanism of visual working memory of high-level visual stimuli. 
 * I use M/EEG and fMRI to study human vision. I also had experience with tDCS and physiological signal recording in my stress project.
 * I'm a co-author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)
-* find me through email: wanruli@stu.pku.edu.cn
+* 📫 wanruli@stu.pku.edu.cn and I'm looking forward to discussing anything about cognitive neuroscience, Python/MATLAB/R coding and my project!   
 
 
 <!--
