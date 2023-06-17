@@ -3,7 +3,7 @@
 I'm Wanru! 
 
 * I'm a second-year PhD student in **BLAB (lab head: Dr. Pinglei Bao)** at Peking University. Our lab focus on high-level vision cognition in human and non-human primate! 
-* I earned my bachlor degree in Psychology in East China Normal University. I was a member of **MElab (Memory and Emotion Lab; lab head: Dr. Yixuan Ku)** investigating the influence of acute stress on visual working memory. 
+* I earned my bachlor's degree in Psychology in East China Normal University. I was a member of **[MElab (Memory and Emotion Lab; lab head: Dr. Yixuan Ku)](https://sysumelab.com/)** investigating the influence of acute stress on visual working memory back then. 
 * I'm working on the neural mechanism of visual working memory of high-level visual stimuli. 
 * I use M/EEG and fMRI to study human vision. I also had experience with tDCS and physiological signal recording in my stress project.
 * I'm a co-author of [the first Chinese Python EEG data analysis handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)
